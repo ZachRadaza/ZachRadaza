@@ -1,16 +1,20 @@
-## Hi there 👋
+## Whats Good 
 
-<!--
-**ZachRadaza/ZachRadaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Zach**, and love programming. Programming just gives me that itch in my brain that I can't seem to get rid off. You might catch me doing so until 4 am, you never know 🤷‍♂️.
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am always open to learning new technologies, as it really is the name of the game in this world as tech seems to move faster than Usain Bolt. But for now:
+  - frontend: 'React', 'TypeScript', 'Tailwind', 'Java Swing'
+  - backend: 'Node.js', 'PostgreSQL', 'Supabase', 'Mongo'
+  - tools: 'Git', 'Docker', 'Vercel'
+
+### Links
+
+🌐 Website: [zach-radaza.com](https://zach-radaza.com)
+💻 GitHub: https://github.com/ZachRadaza
+📫 Reach me: [zachradaza@gmail.com](mailto:zachradaza@gmail.com)
+
+---
+
+> “Hard Work Beats Talent.”
